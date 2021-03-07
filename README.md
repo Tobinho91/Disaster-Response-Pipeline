@@ -74,7 +74,7 @@ python run.py
 
 ### First page overview
 
-![First page overview](attachment:PNG_1.PNG)
+![PNG_1.PNG](attachment:PNG_1.PNG)
 
 
 ### Shows the output after inserting a text message in the "Result" section below
