@@ -59,7 +59,7 @@ python data/process_data.py data/disaster_messages.csv data/disaster_categories.
 
 - To run ML pipeline that trains classifier and saves it:
 
-python model/train_classifier.py data/DisasterResponse.db models/classifier.pkl 
+python model/train_classifier.py data/DisasterResponse.db model/classifier.pkl 
 
 - Run the following command in the app's directory to run your web app:
 
